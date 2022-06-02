@@ -1,0 +1,14 @@
+/fix-me/fix-me.iml
+/.idea/sonarlint/issuestore/index.pb
+/.idea/.gitignore
+/.idea/aws.xml
+/.idea/checkstyle-idea.xml
+/.idea/compiler.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/vcs.xml
+/target/classes/com/lkaczmar/exercise/convert/Converter.class
+/target/classes/com/lkaczmar/exercise/Main.class
+/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/exercise1.iml
